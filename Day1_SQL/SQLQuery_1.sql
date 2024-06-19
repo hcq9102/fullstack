@@ -34,7 +34,7 @@ WHERE Color IS NOT NULL AND ListPrice> 0
 
 --6.Write a query that concatenates the columns Name and Color from the Production.Product table 
 --by excluding the rows that are null for color.
-SELECT Name +' '+ Color
+SELECT Name +' '+ Color AS NameColor
 FROM Production.Product
 WHERE Color IS NOT NULL
 
@@ -46,7 +46,7 @@ WHERE Color IS NOT NULL
 --NAME: Chainring Nut  --  COLOR: Silver
 --NAME: Chainring  --  COLOR: Black
   
-SELECT  'NAME:'+ Name + ' -- COLOR:'+ Color
+SELECT  'NAME:'+ Name + ' -- COLOR:'+ Color AS NameColor
 FROM Production.Product
 WHERE Color IS NOT NULL
 
@@ -64,7 +64,7 @@ WHERE Color IN('black', 'blue')
 
 --10.Write a query to get a result set on products that begins with the letter S. 
 
-SELECT  Name
+SELECT Name
 FROM Production.Product 
 WHERE Name like 'S%'
 
