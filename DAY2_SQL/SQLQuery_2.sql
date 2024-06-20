@@ -165,28 +165,35 @@ SELECT DISTINCT p.ProductID, p.ProductName
 From Products p
 JOIN [Order Details] od ON od.ProductID = p.ProductID
 JOIN Orders o ON od.OrderID = o.OrderID
+WHERE o.OrderDate >= DATEADD(YEAR, -27, GETDATE())
+
+
+    
+SELECT DISTINCT p.ProductID, p.ProductName
+From Products p
+JOIN [Order Details] od ON od.ProductID = p.ProductID
+JOIN Orders o ON od.OrderID = o.OrderID
 --WHERE o.OrderDate >= DATEADD(YEAR, -27, GETDATE())
 WHERE YEAR(o.OrderDate) >= 1997
 
 --15.  List top 5 locations (Zip Code) where the products sold most.
 
-SELECT TOP 5 c.PostalCode AS [Zip Code], COUNT(od.ProductID) AS SoldCount
-FROM Orders o JOIN [Order Details] od ON o.OrderID = od.OrderID
-JOIN Customers c ON o.CustomerID = c.CustomerID
---WHERE c.PostalCode IS NOT NULL  ??
-GROUP BY c.PostalCode
-ORDER BY SoldCount DESC
+SELECT TOP 5 o.ShipPostalCode AS [Zip Code], SUM(od.Quantity) AS TotalSold
+FROM Orders o
+JOIN [Order Details] od ON o.OrderID = od.OrderID
+GROUP BY o.ShipPostalCode
+ORDER BY TotalSold DESC;
 
 
 
 
 --16.  List top 5 locations (Zip Code) where the products sold most in last 27 years.
-SELECT TOP 5 c.PostalCode AS [Zip Code], COUNT(od.ProductID) AS SoldCount
-FROM Orders o JOIN [Order Details] od ON o.OrderID = od.OrderID
-JOIN Customers c ON o.CustomerID = c.CustomerID
-WHERE YEAR(o.OrderDate) >= YEAR(GETDATE()) - 27
-GROUP BY c.PostalCode
-ORDER BY SoldCount DESC
+SELECT TOP 5 o.ShipPostalCode AS [Zip Code], SUM(od.Quantity) AS TotalSold
+FROM Orders o
+JOIN [Order Details] od ON o.OrderID = od.OrderID
+WHERE o.OrderDate >= DATEADD(YEAR, -27, GETDATE())
+GROUP BY o.ShipPostalCode
+ORDER BY TotalSold DESC;
 
 --17.  List all city names and number of customers in that city.  
 SELECT c.City, COUNT(c.CustomerID) AS NumberOfCustomers
