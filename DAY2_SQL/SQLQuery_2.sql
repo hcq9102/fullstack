@@ -253,8 +253,8 @@ HAVING COUNT(od.ProductID) > 100;
 */
 
 SELECT DISTINCT 
-    s.CompanyName AS SupplierCompanyName,
-    sp.CompanyName AS ShippingCompanyName
+    s.CompanyName AS [Supplier Company Name],
+    sp.CompanyName AS [Shipping Company Name]
 FROM Suppliers s
 CROSS JOIN Shippers sp
 
