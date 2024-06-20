@@ -299,12 +299,12 @@ Contact Name,
 Type (Customer or Supplier)
 */
 
-SELECT City, CompanyName AS Name, ContactName AS [Contact Name],'Customer' AS Type
+SELECT City, CompanyName AS Name, ContactName AS [Contact Name],'Customer' AS [Type (Customer or Supplier)]
 FROM Customers
 
 UNION ALL
 
-SELECT City, CompanyName AS Name, ContactName AS [Contact Name], 'Supplier' AS Type
+SELECT City, CompanyName AS Name, ContactName AS [Contact Name], 'Supplier' AS [Type (Customer or Supplier)]
 FROM Suppliers
-ORDER BY City, Type
+ORDER BY City, [Type (Customer or Supplier)]
 
