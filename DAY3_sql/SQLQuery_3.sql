@@ -246,6 +246,18 @@ ON TopEmployeeCity.EmployeeInCity = TopQuantityCity.QuantityCity;
 
 --11. How do you remove the duplicates record of a table?
 /*
-Ans: Remove duplicate records from a table using CTE (Common Table Expressions), combined with ROW_NUMBER() window function to identify duplicates rows, 
-      and a DELETE statement to delete the duplicated rows. 
+Ans: Remove duplicate records from a table using CTE (Common Table Expressions), combined with the ROW_NUMBER() window function 
+     to identify duplicate rows and a DELETE statement to delete the duplicated rows. 
+
 */
+
+
+-----------------
+
+--Q: Class question: what is the difference between varchar and nvarchar?
+---varchar： Variable-length character data type that stores ANSI characters and automatically adjusts its size based on the length of the data.
+---nvarchar： Variable-length character data type that stores Unicode characters and automatically adjusts its size based on the length of the data.
+
+
+
+
