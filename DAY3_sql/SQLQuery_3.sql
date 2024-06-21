@@ -255,9 +255,8 @@ Ans: Remove duplicate records from a table using CTE (Common Table Expressions),
 -----------------
 
 --Q: Class question: what is the difference between varchar and nvarchar?
----varchar： Variable-length character data type that stores ANSI characters and automatically adjusts its size based on the length of the data.
+---varchar： Variable-length character data type that stores ASCII characters and automatically adjusts its size based on the length of the data.
 ---nvarchar： Variable-length character data type that stores Unicode characters and automatically adjusts its size based on the length of the data.
-
-
+---Therefore, NVARCHAR supports Unicode, whereas VARCHAR only supports ASCII. This makes NVARCHAR compatible with more languages and character sets at the cost of higher storage requirements
 
 
