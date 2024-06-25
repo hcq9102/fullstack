@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/bin/Debug/net8.0/CenturyConvert
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/bin/Debug/net8.0/CenturyConvert.deps.json
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/bin/Debug/net8.0/CenturyConvert.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/bin/Debug/net8.0/CenturyConvert.dll
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/bin/Debug/net8.0/CenturyConvert.pdb
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.dll
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/refint/CenturyConvert.dll
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.pdb
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/CenturyConvert.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/CenturyConvert/obj/Debug/net8.0/ref/CenturyConvert.dll

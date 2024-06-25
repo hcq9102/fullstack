@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/bin/Debug/net8.0/02UnderstandingTypes2
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/bin/Debug/net8.0/02UnderstandingTypes2.deps.json
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/bin/Debug/net8.0/02UnderstandingTypes2.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/bin/Debug/net8.0/02UnderstandingTypes2.dll
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/bin/Debug/net8.0/02UnderstandingTypes2.pdb
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.dll
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/refint/02UnderstandingTypes2.dll
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.pdb
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/02UnderstandingTypes2.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/02UnderstandingTypes2/02UnderstandingTypes2/obj/Debug/net8.0/ref/02UnderstandingTypes2.dll
