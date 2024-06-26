@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/bin/Debug/net8.0/FormatURL
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/bin/Debug/net8.0/FormatURL.deps.json
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/bin/Debug/net8.0/FormatURL.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/bin/Debug/net8.0/FormatURL.dll
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/bin/Debug/net8.0/FormatURL.pdb
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.dll
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/refint/FormatURL.dll
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.pdb
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/FormatURL.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/FormatURL/FormatURL/obj/Debug/net8.0/ref/FormatURL.dll
