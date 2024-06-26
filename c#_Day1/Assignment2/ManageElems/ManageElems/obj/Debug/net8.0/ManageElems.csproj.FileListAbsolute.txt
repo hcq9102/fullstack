@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/bin/Debug/net8.0/ManageElems
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/bin/Debug/net8.0/ManageElems.deps.json
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/bin/Debug/net8.0/ManageElems.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/bin/Debug/net8.0/ManageElems.dll
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/bin/Debug/net8.0/ManageElems.pdb
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.dll
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/refint/ManageElems.dll
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.pdb
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ManageElems.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/ManageElems/ManageElems/obj/Debug/net8.0/ref/ManageElems.dll
