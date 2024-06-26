@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/bin/Debug/net8.0/RandomNumbers
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/bin/Debug/net8.0/RandomNumbers.deps.json
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/bin/Debug/net8.0/RandomNumbers.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/bin/Debug/net8.0/RandomNumbers.dll
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/bin/Debug/net8.0/RandomNumbers.pdb
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.dll
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/refint/RandomNumbers.dll
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.pdb
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/RandomNumbers.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/RandomNumbers/RandomNumbers/obj/Debug/net8.0/ref/RandomNumbers.dll

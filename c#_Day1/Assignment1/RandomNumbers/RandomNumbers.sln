@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbers", "RandomNumbers\RandomNumbers.csproj", "{357C758F-8C9C-4658-AF5A-033557B226BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357C758F-8C9C-4658-AF5A-033557B226BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357C758F-8C9C-4658-AF5A-033557B226BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357C758F-8C9C-4658-AF5A-033557B226BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357C758F-8C9C-4658-AF5A-033557B226BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
