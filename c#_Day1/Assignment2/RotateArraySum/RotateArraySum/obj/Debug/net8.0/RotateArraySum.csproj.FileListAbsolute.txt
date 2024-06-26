@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/bin/Debug/net8.0/RotateArraySum
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/bin/Debug/net8.0/RotateArraySum.deps.json
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/bin/Debug/net8.0/RotateArraySum.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/bin/Debug/net8.0/RotateArraySum.dll
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/bin/Debug/net8.0/RotateArraySum.pdb
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.dll
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/refint/RotateArraySum.dll
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.pdb
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/RotateArraySum.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/RotateArraySum/RotateArraySum/obj/Debug/net8.0/ref/RotateArraySum.dll
