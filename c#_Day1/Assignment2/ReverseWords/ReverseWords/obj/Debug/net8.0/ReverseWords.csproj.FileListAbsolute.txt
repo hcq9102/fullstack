@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/bin/Debug/net8.0/ReverseWords
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/bin/Debug/net8.0/ReverseWords.deps.json
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/bin/Debug/net8.0/ReverseWords.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/bin/Debug/net8.0/ReverseWords.dll
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/bin/Debug/net8.0/ReverseWords.pdb
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.dll
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/refint/ReverseWords.dll
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.pdb
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ReverseWords.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/ReverseWords/ReverseWords/obj/Debug/net8.0/ref/ReverseWords.dll
