@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/bin/Debug/net8.0/MostFrequent
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/bin/Debug/net8.0/MostFrequent.deps.json
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/bin/Debug/net8.0/MostFrequent.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/bin/Debug/net8.0/MostFrequent.dll
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/bin/Debug/net8.0/MostFrequent.pdb
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.dll
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/refint/MostFrequent.dll
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.pdb
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/MostFrequent.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/MostFrequent/MostFrequent/obj/Debug/net8.0/ref/MostFrequent.dll
