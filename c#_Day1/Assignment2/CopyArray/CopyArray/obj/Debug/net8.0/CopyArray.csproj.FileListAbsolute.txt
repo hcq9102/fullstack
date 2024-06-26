@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/bin/Debug/net8.0/CopyArray
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/bin/Debug/net8.0/CopyArray.deps.json
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/bin/Debug/net8.0/CopyArray.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/bin/Debug/net8.0/CopyArray.dll
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/bin/Debug/net8.0/CopyArray.pdb
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.dll
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/refint/CopyArray.dll
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.pdb
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/CopyArray.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/CopyArray/CopyArray/obj/Debug/net8.0/ref/CopyArray.dll
