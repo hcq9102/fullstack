@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/bin/Debug/net8.0/ExtractPalindrome
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/bin/Debug/net8.0/ExtractPalindrome.deps.json
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/bin/Debug/net8.0/ExtractPalindrome.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/bin/Debug/net8.0/ExtractPalindrome.dll
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/bin/Debug/net8.0/ExtractPalindrome.pdb
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.dll
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/refint/ExtractPalindrome.dll
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.pdb
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ExtractPalindrome.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/ExtractPalindrome/ExtractPalindrome/obj/Debug/net8.0/ref/ExtractPalindrome.dll
