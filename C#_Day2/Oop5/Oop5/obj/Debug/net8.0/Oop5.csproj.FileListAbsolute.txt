@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/bin/Debug/net8.0/Oop5
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/bin/Debug/net8.0/Oop5.deps.json
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/bin/Debug/net8.0/Oop5.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/bin/Debug/net8.0/Oop5.dll
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/bin/Debug/net8.0/Oop5.pdb
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.dll
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/refint/Oop5.dll
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.pdb
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/Oop5.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Oop5/Oop5/obj/Debug/net8.0/ref/Oop5.dll

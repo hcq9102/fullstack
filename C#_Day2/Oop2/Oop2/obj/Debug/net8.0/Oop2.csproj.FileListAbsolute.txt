@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/bin/Debug/net8.0/Oop2
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/bin/Debug/net8.0/Oop2.deps.json
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/bin/Debug/net8.0/Oop2.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/bin/Debug/net8.0/Oop2.dll
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/bin/Debug/net8.0/Oop2.pdb
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.dll
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/refint/Oop2.dll
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.pdb
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/Oop2.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Oop2/Oop2/obj/Debug/net8.0/ref/Oop2.dll
