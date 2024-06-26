@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/bin/Debug/net8.0/Increment
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/bin/Debug/net8.0/Increment.deps.json
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/bin/Debug/net8.0/Increment.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/bin/Debug/net8.0/Increment.dll
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/bin/Debug/net8.0/Increment.pdb
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.dll
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/refint/Increment.dll
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.pdb
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/Increment.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Increment/Increment/obj/Debug/net8.0/ref/Increment.dll
