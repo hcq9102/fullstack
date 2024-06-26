@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/bin/Debug/net8.0/LongestSequence
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/bin/Debug/net8.0/LongestSequence.deps.json
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/bin/Debug/net8.0/LongestSequence.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/bin/Debug/net8.0/LongestSequence.dll
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/bin/Debug/net8.0/LongestSequence.pdb
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.dll
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/refint/LongestSequence.dll
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.pdb
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/LongestSequence.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/ LongestSequence/ LongestSequence/obj/Debug/net8.0/ref/LongestSequence.dll
