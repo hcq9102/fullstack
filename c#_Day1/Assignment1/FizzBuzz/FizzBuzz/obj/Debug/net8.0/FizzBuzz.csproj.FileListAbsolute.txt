@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/bin/Debug/net8.0/FizzBuzz
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/bin/Debug/net8.0/FizzBuzz.deps.json
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/bin/Debug/net8.0/FizzBuzz.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/bin/Debug/net8.0/FizzBuzz.dll
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/bin/Debug/net8.0/FizzBuzz.pdb
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/FizzBuzz.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Exercise03/FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll

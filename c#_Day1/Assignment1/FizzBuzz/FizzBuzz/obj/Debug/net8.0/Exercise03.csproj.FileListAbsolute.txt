@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.deps.json
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.dll
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/bin/Debug/net8.0/Exercise03.pdb
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.dll
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/refint/Exercise03.dll
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.pdb
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/Exercise03.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Exercise03/Exercise03/obj/Debug/net8.0/ref/Exercise03.dll
