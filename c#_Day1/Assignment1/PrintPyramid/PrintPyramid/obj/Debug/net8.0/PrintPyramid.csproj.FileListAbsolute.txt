@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/bin/Debug/net8.0/PrintPyramid
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/bin/Debug/net8.0/PrintPyramid.deps.json
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/bin/Debug/net8.0/PrintPyramid.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/bin/Debug/net8.0/PrintPyramid.dll
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/bin/Debug/net8.0/PrintPyramid.pdb
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.dll
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/refint/PrintPyramid.dll
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.pdb
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/PrintPyramid.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/PrintPyramid/PrintPyramid/obj/Debug/net8.0/ref/PrintPyramid.dll
