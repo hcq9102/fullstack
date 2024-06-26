@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/bin/Debug/net8.0/PrimeNumbers
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/bin/Debug/net8.0/PrimeNumbers.deps.json
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/bin/Debug/net8.0/PrimeNumbers.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/bin/Debug/net8.0/PrimeNumbers.dll
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/bin/Debug/net8.0/PrimeNumbers.pdb
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.dll
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/refint/PrimeNumbers.dll
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.pdb
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/PrimeNumbers.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/PrimeNumbers/PrimeNumbers/obj/Debug/net8.0/ref/PrimeNumbers.dll
