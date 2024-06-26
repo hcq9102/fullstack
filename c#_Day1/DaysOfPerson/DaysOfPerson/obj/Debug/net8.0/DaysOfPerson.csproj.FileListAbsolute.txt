@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/bin/Debug/net8.0/DaysOfPerson
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/bin/Debug/net8.0/DaysOfPerson.deps.json
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/bin/Debug/net8.0/DaysOfPerson.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/bin/Debug/net8.0/DaysOfPerson.dll
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/bin/Debug/net8.0/DaysOfPerson.pdb
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.dll
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/refint/DaysOfPerson.dll
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.pdb
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/DaysOfPerson.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/DaysOfPerson/DaysOfPerson/obj/Debug/net8.0/ref/DaysOfPerson.dll
