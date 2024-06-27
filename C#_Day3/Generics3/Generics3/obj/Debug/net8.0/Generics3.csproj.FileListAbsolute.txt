@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/bin/Debug/net8.0/Generics3
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/bin/Debug/net8.0/Generics3.deps.json
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/bin/Debug/net8.0/Generics3.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/bin/Debug/net8.0/Generics3.dll
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/bin/Debug/net8.0/Generics3.pdb
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.dll
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/refint/Generics3.dll
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.pdb
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/Generics3.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Generics/Generics3/obj/Debug/net8.0/ref/Generics3.dll
