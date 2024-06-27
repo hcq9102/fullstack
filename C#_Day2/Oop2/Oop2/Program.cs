@@ -1,4 +1,8 @@
-﻿
+/*
+Use /Abstraction/ to define different classes for each person type such as Student
+and Instructor. These classes should have behavior for that type of person
+*/
+
 using Oop2;
 
 // Method to display details using abstraction (base class reference)
