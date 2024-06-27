@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/*Write a program that demonstrates use of four basic principles of
+object-oriented programming /Abstraction/, /Encapsulation/, /Inheritance/ and
+/Polymorphism
+*/
 
 using System;
 
