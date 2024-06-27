@@ -32,7 +32,7 @@ var studentById = studentRepository.GetById(1);
 Console.WriteLine($"StudentID: {studentById.Id}, Name: {studentById.Name}");
 
 studentRepository.Remove(student1);
-studentRepository.Save();  // This will output "Changes have been saved."
+studentRepository.Save();  //  "Changes have been saved."
 
 Console.WriteLine("Students after removal:");
 foreach (var student in studentRepository.GetAll())
