@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/bin/Debug/net8.0/WorkWithMethods2
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/bin/Debug/net8.0/WorkWithMethods2.deps.json
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/bin/Debug/net8.0/WorkWithMethods2.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/bin/Debug/net8.0/WorkWithMethods2.dll
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/bin/Debug/net8.0/WorkWithMethods2.pdb
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.dll
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/refint/WorkWithMethods2.dll
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.pdb
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/WorkWithMethods2.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/WorkWithMethods2/WorkWithMethods2/obj/Debug/net8.0/ref/WorkWithMethods2.dll
