@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/bin/Debug/net8.0/Oop7Class
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/bin/Debug/net8.0/Oop7Class.deps.json
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/bin/Debug/net8.0/Oop7Class.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/bin/Debug/net8.0/Oop7Class.dll
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/bin/Debug/net8.0/Oop7Class.pdb
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.dll
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/refint/Oop7Class.dll
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.pdb
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/Oop7Class.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Oop7Class/Oop7Class/obj/Debug/net8.0/ref/Oop7Class.dll

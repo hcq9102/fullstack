@@ -1,0 +1,15 @@
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/bin/Debug/net8.0/Oop6Interfaces
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/bin/Debug/net8.0/Oop6Interfaces.deps.json
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/bin/Debug/net8.0/Oop6Interfaces.runtimeconfig.json
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/bin/Debug/net8.0/Oop6Interfaces.dll
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/bin/Debug/net8.0/Oop6Interfaces.pdb
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.AssemblyInfoInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.AssemblyInfo.cs
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.csproj.CoreCompileInputs.cache
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.sourcelink.json
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.dll
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/refint/Oop6Interfaces.dll
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.pdb
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/Oop6Interfaces.genruntimeconfig.cache
+/Users/chuanqiuhe/RiderProjects/Oop6Interfaces/Oop6Interfaces/obj/Debug/net8.0/ref/Oop6Interfaces.dll
